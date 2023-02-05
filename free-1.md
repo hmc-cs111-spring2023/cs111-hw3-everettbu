@@ -1,15 +1,20 @@
-# Free project 1
+# Free project 1 - Re-design ContextFree
 
 ## The user and a language
 
 This section describes who the project would serve and why a language might be a
 good way to meet their needs.
 
+Recalling helpful insight from the [Steele, 1998] reading, I learned that a good language should start off simple and have the room to grow. This also means that up-front it should simple for its users to learn and understand, but also contain advanced features that can be picked up if desired. I think that ContextFree is already a useful DSL, but it is too complex for it's entry level users.
+
 ### What's the need?
 
 _What need is met by your idea? Who are you helping? What is that person's
 experience like now? What would their experience be like if you could help
 them?_
+
+ContextFree is a powerful tool to create online art. However, its syntax is fairly confusing and hard to pick up. If I am  able to help improve this language, I would re-design the it so that it is easier to create simple art, while keeping its advanced features that many experinced users use and enjoy. 
+This includes renamimg some of the functions to make them more clear, include the option to write out colors as a word rather than their hex values, and potentially add starter templates for people to build from. 
 
 ### Why a language?
 
@@ -18,6 +23,8 @@ _Why is a DSL appropriate for your user(s)? How does it address the need?_
 ### Why you?
 
 _What excites you about this idea? How did you come up with it?_
+
+After having conversations with other students in our class, I realized that ContextFree was generally confusing to learn. With this in mind, if the language isn't easy for CS majors to pick up, people without a technical background would likely find it nearly impossible to learn. This project excites me because I felt this way myself and would find it rewarding to solve a problem I experienced first-hand.
 
 ### Domain
 
