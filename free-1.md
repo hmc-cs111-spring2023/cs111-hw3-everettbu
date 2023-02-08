@@ -75,11 +75,17 @@ making language design decisions), as opposed to "systems" aspects of the
 project (e.g., implementing a complicated semantics that doesn't require a lot
 of language design)?_
 
+From my current understanding, 85%/15%
+
 ### Scope
 
 _How big an idea is this? How ambitious is this project?_
+
+I would consider this a smaller idea, it seems very achieveable.
 
 ### Benefits and drawbacks
 
 _Why might this be a good idea for a project? Why might this not be a good idea
 project?_
+
+I think this would be a good project for this class as it would allow me to really engage with a language. Also, since ContectFree is a program that already exists and is used, it may be able to help others beyond myself.
