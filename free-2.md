@@ -90,4 +90,4 @@ I would consider this a smaller idea, it seems very achieveable.
 _Why might this be a good idea for a project? Why might this not be a good idea
 project?_
 
-I think this would be a good project for this class as it would allow me to really engage with a language. Also, since ContectFree is a program that already exists and is used, it may be able to help others beyond myself.
+I think this would be a good project for this class as it would allow me to really engage with a language. Also, since ContectFree is a program that already exists and is used, it may be able to help others beyond myself. It also might be a bad idea because nobody may use it. Do the people who use ContextFree really want this DSL?
