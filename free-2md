@@ -20,6 +20,8 @@ This includes renamimg some of the functions to make them more clear, include th
 
 _Why is a DSL appropriate for your user(s)? How does it address the need?_
 
+A DSL would be useful for my users because it would allow for them to work on top of ContextFree, which already exists, and decide whether to use my features or not. A DSL is great for adressing this need because it allows for users within my domain to access simplifed features while still having access to all of the complexities ofContextFree
+
 ### Why you?
 
 _What excites you about this idea? How did you come up with it?_
